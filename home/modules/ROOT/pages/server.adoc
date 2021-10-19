@@ -4,8 +4,6 @@
 :!sectids:
 :tabs:
 
-= Couchbase Server
-
 == {empty}
 
 Couchbase is the modern database for enterprise applications.
@@ -42,7 +40,7 @@ try {
 [.content]
 Read the Getting Started guide for step-by-step instructions to create and connect to the database and run your first query.
 
-xref:server:getting-started:start-here.adoc[Get Started]
+xref:server:tutorials:getting-started.adoc[Get Started]
 
 [.column]
 ====== {empty}
@@ -56,14 +54,14 @@ If you are an existing Couchbase user looking for information to upgrade to Couc
 .Migrating to Couchbase
 
 [.content]
-Find guidance and considerations when migrating from a different database to Couchbase through this https://blog.couchbase.com/moving-from-sql-server-to-couchbase-part-1-data-modeling/[blog series]. 
+Find guidance and considerations when migrating from a different database to Couchbase through this https://blog.couchbase.com/moving-from-sql-server-to-couchbase-part-1-data-modeling/[blog series].
 
 [.column]
 ====== {empty}
 .Explore Tutorials
 
 [.content]
-Explore Couchbase https://developer.couchbase.com/topic/tutorials/[Tutorials] to learn how to build and operate apps using Couchbase. 
+Explore Couchbase https://developer.couchbase.com/topic/tutorials/[Tutorials] to learn how to build and operate apps using Couchbase.
 
 ++++
 </div>
@@ -80,7 +78,7 @@ Explore Couchbase https://developer.couchbase.com/topic/tutorials/[Tutorials] to
 
 [.column]
 .Build your first sample app
-* xref:server:sdk:development-intro.adoc[Developer's Intro] 
+* xref:server:sdk:development-intro.adoc[Developer's Intro]
 * xref:server:learn:data/document-data-model.adoc[Data Model]
 * xref:java-sdk:hello-world:start-using-sdk.adoc[Hello World Using SDKs]
 * xref:java-sdk:howtos:kv-operations.adoc[CRUD Using SDKs]
@@ -113,7 +111,7 @@ Explore Couchbase https://developer.couchbase.com/topic/tutorials/[Tutorials] to
 * xref:server:learn:services-and-indexes/indexes/index-lifecycle.adoc[Index Lifecyle]
 * xref:server:learn:services-and-indexes/indexes/global-secondary-indexes.adoc[Using Indexes]
 * xref:server:rest-api:rest-index-service.adoc[Index Service REST API]
- 
+
 [.column]
 .Analytics
 * xref:server:learn:services-and-indexes/services/analytics-service.adoc[Analytics Service]
