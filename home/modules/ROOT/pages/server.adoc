@@ -40,7 +40,7 @@ try {
 [.content]
 Read the Getting Started guide for step-by-step instructions to create and connect to the database and run your first query.
 
-xref:server:tutorials:getting-started.adoc[Get Started]
+xref:server:getting-started:start-here.adoc[Get Started]
 
 [.column]
 ====== {empty}
