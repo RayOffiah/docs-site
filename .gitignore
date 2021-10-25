@@ -6,3 +6,4 @@
 /scripts/node_modules/
 local-antora-playbook.yml
 xref-validator.log
+.asciidoctorconfig
